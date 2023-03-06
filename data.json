@@ -1,0 +1,52 @@
+{
+    "projects": [
+    {"id":0,
+      "project_name": "Pagination",
+      "description": "Page Numbering",
+      "technologies": [ "Java", "css", "Html" ],
+      "image": "/images/project3.png",
+      "image_url":[
+        "/images/project3.png"
+      ],
+      
+      "links": ["https://github.com/SanmeetKaur276/LabExercise_300329461"
+      ]
+  
+    },
+    {"id":1,
+    "project_name": "React Exercise",
+    "description": "Shows the list of planet",
+    "technologies": [ "Java", "css", "Html"],
+    "image": "/images/project.png",
+    "image_url":[
+      "/images/project.png"
+    ],
+    "links": ["https://github.com/SanmeetKaur276/ReactExercise-Planets"
+  ]
+
+  }
+  
+  ],
+    "portfolios": [
+      {
+        "name":"Sanmeet Kaur",
+        "description":"Portfolio",
+        "job":"Student at Douglas College",
+        "image":"/images/project2.jpeg",
+        "link":"https://github.com/SanmeetKaur276/NodeExpressPortfolio"
+      }
+    ],
+    "contact": [
+      {
+        "name":"Sanmeet Kaur",
+        "job":"Student at Douglas College",
+        "image":"/images/project2.jpeg",
+        "link":"https://github.com/SanmeetKaur276/NodeExpressPortfolio",
+        "email":"kaurs195@student.douglascollege.ca",
+        "phone":"6049803678",
+        "social": []
+      }
+    ],
+
+    "skills":["Html","Java","React","Javascript"]
+  }
